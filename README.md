@@ -1,2 +1,5 @@
-# import-Raster-file
-import and plot raster file 
+## Read Raster image 
+
+Below are the next tasks
+  - Load Raster image
+  - Convert to metrics
