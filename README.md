@@ -2,4 +2,4 @@
 
 Below are the next tasks
   - Load Raster image
-  - Convert to metrics
+  - Convert the 3D metric to 1 D
